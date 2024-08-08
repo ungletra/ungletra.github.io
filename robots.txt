@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ungletra.github.io/sitemap.html.gz
+Sitemap: https://ungletra.github.io/app/sitemap.html.gz
+Sitemap: https://ungletra.github.io/assets/sitemap.html.gz
+Sitemap: https://ungletra.github.io/css/sitemap.html.gz
+Sitemap: https://ungletra.github.io/includes/sitemap.html.gz
+Sitemap: https://ungletra.github.io/item/sitemap.html.gz
+Sitemap: https://ungletra.github.io/src/sitemap.html.gz
